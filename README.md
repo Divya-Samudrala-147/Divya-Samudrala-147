@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divya-Samudrala-147
-- Pursuing B.Tech Final Year in the stream of Computer Science and Engineering
+- Completed B.Tech in the stream of Computer Science and Engineering in 2023
 - Rajiv Gandhi University of Knowledge Technologies,Srikakulam
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence
